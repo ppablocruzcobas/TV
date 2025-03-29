@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates7.xml,https://i.mjh.nz/SamsungTVPlus/ca.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/es.xml,http://192.168.1.16:8098/xumo/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="001" tvg-id="WABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Live",ABC
 http://192.168.1.16:8097/WABC
