@@ -1,37 +1,37 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates7.xml,https://i.mjh.nz/SamsungTVPlus/ca.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/es.xml,http://192.168.1.16:8098/xumo/epg.xml"
 
-#EXTINF:-1 tvg-chno="001" tvg-id="WABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC
+#EXTINF:-1 tvg-chno="001" tvg-id="WABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Live",ABC
 http://192.168.1.16:8097/WABC
 #EXTINF:-1 tvg-chno="002" tvg-id="WCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Live",CBS
 http://192.168.1.16:8097/WCBS
-#EXTINF:-1 tvg-chno="003" tvg-id="WNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC
+#EXTINF:-1 tvg-chno="003" tvg-id="WNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Live",NBC
 http://192.168.1.16:8097/WNBC
 
-#EXTINF:-1 tvg-chno="004" tvg-id="HBO (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movie",HBO
+#EXTINF:-1 tvg-chno="004" tvg-id="HBO (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://192.168.1.16:8097/HBO
-#EXTINF:-1 tvg-chno="005" tvg-id="HBO 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movie",HBO 2
+#EXTINF:-1 tvg-chno="005" tvg-id="HBO 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies",HBO 2
 http://192.168.1.16:8097/HBO2
-#EXTINF:-1 tvg-chno="006" tvg-id="HBO Comedy (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="Movie",HBO Comedy
+#EXTINF:-1 tvg-chno="006" tvg-id="HBO Comedy (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="Movies",HBO Comedy
 http://192.168.1.16:8097/HBOComedy
-#EXTINF:-1 tvg-chno="007" tvg-id="HBO Family (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Movie",HBO Family
+#EXTINF:-1 tvg-chno="007" tvg-id="HBO Family (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Movies",HBO Family
 http://192.168.1.16:8097/HBOFamily
-#EXTINF:-1 tvg-chno="008" tvg-id="HBO Signature (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="Movie",HBO Signature
+#EXTINF:-1 tvg-chno="008" tvg-id="HBO Signature (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="Movies",HBO Signature
 http://192.168.1.16:8097/HBOSignature
-#EXTINF:-1 tvg-chno="009" tvg-id="HBO Zone (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="Movie",HBO Zone
+#EXTINF:-1 tvg-chno="009" tvg-id="HBO Zone (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="Movies",HBO Zone
 http://192.168.1.16:8097/HBOZone
 
-#EXTINF:-1 tvg-chno="010" tvg-id="Showtime (East).us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movie",Showtime
+#EXTINF:-1 tvg-chno="010" tvg-id="Showtime (East).us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime
 http://192.168.1.16:8097/Showtime
-#EXTINF:-1 tvg-chno="011" tvg-id="Showtime 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="",Showtime 2
+#EXTINF:-1 tvg-chno="011" tvg-id="Showtime 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Movies",Showtime 2
 http://192.168.1.16:8097/Showtime2
-#EXTINF:-1 tvg-chno="012" tvg-id="Showtime Extreme (East).us" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="",Showtime Extreme
+#EXTINF:-1 tvg-chno="012" tvg-id="Showtime Extreme (East).us" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme
 http://192.168.1.16:8097/ShowtimeExtreme
-#EXTINF:-1 tvg-chno="013" tvg-id="Showtime Next (East).us" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Movie",Showtime Next
+#EXTINF:-1 tvg-chno="013" tvg-id="Showtime Next (East).us" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Movies",Showtime Next
 http://192.168.1.16:8097/ShowtimeNext
-#EXTINF:-1 tvg-chno="014" tvg-id="Showtime Women (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/512px-Showtime_Women.svg.png" group-title="",Showtime Women
+#EXTINF:-1 tvg-chno="014" tvg-id="Showtime Women (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/512px-Showtime_Women.svg.png" group-title="Movies",Showtime Women
 http://192.168.1.16:8097/ShowtimeWomen
 
-#EXTINF:-1 tvg-chno="015" tvg-id="MGM+ (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM+_logo.svg/512px-MGM+_logo.svg.png" group-title="Movie",MGM+
+#EXTINF:-1 tvg-chno="015" tvg-id="MGM+ (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM+_logo.svg/512px-MGM+_logo.svg.png" group-title="Movies",MGM+
 http://192.168.1.16:8097/MGMPlus
 #EXTINF:-1 tvg-chno="016" tvg-id="MGM+ Drive-In.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" group-title="Movies",MGM+ Drive-In
 http://192.168.1.16:8097/MGMPlusDriveIn
@@ -40,36 +40,36 @@ http://192.168.1.16:8097/MGMPlusHits
 #EXTINF:-1 tvg-chno="018" tvg-id="MGM+ Marquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="Movies",MGM+ Marquee
 http://192.168.1.16:8097/MGMPlusMarquee
 
-#EXTINF:-1 tvg-chno="019" tvg-id="Starz (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/512px-Starz_2008.png" group-title="Movie",Starz
+#EXTINF:-1 tvg-chno="019" tvg-id="Starz (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/512px-Starz_2008.png" group-title="Movies",Starz
 http://192.168.1.16:8097/StarzEast
-#EXTINF:-1 tvg-chno="020" tvg-id="STARZ ENCORE Classic (East).us" tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="Classic",Starz Encore Classic
+#EXTINF:-1 tvg-chno="020" tvg-id="STARZ ENCORE Classic (East).us" tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="Movies",Starz Encore Classic
 http://192.168.1.16:8097/StarzEncoreClassic
 
-#EXTINF:-1 tvg-chno="021" tvg-id="AMC (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movie",AMC
+#EXTINF:-1 tvg-chno="021" tvg-id="AMC (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC
 http://192.168.1.16:8097/AMC
 
-#EXTINF:-1 tvg-chno="022" tvg-id="xumo-99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/512x512.png?type=color_onBlack" group-title="Horror & Sci-Fi",AMC Thrillers
+#EXTINF:-1 tvg-chno="022" tvg-id="xumo-99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/512x512.png?type=color_onBlack" group-title="Movies",AMC Thrillers
 http://192.168.1.16:8098/xumo/watch/99951377xyz
 
-#EXTINF:-1 tvg-chno="023" tvg-id="FX (East).us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Movie",FX
+#EXTINF:-1 tvg-chno="023" tvg-id="FX (East).us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Movies",FX
 http://192.168.1.16:8097/FX
-#EXTINF:-1 tvg-chno="024" tvg-id="FXX (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Movie",FXX
+#EXTINF:-1 tvg-chno="024" tvg-id="FXX (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Movies",FXX
 http://192.168.1.16:8097/FXX
-#EXTINF:-1 tvg-chno="025" tvg-id="FX Movie Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movie",FX Movie Channel
+#EXTINF:-1 tvg-chno="025" tvg-id="FX Movie Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel
 http://192.168.1.16:8097/FXMovie
-#EXTINF:-1 tvg-chno="026" tvg-id="More Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movie",More Max
+#EXTINF:-1 tvg-chno="026" tvg-id="More Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movies",More Max
 http://192.168.1.16:8097/MoreMax
-#EXTINF:-1 tvg-chno="027" tvg-id="Movie Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movie",Movie Max
+#EXTINF:-1 tvg-chno="027" tvg-id="Movie Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movies",Movie Max
 http://192.168.1.16:8097/MovieMax
-#EXTINF:-1 tvg-chno="028" tvg-id="Cinemax (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movie",Cinemax
+#EXTINF:-1 tvg-chno="028" tvg-id="Cinemax (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax
 http://192.168.1.16:8097/Cinemax
 
-#EXTINF:-1 tvg-chno="029" tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movie",CineLife
+#EXTINF:-1 tvg-chno="029" tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
 http://192.168.1.16:8097/CineLife
 
-#EXTINF:-1 tvg-chno="030" tvg-id="Paramount Network (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movie;Series",Paramount Network East
+#EXTINF:-1 tvg-chno="030" tvg-id="Paramount Network (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies",Paramount Network East
 http://192.168.1.16:8097/ParamountNetwork
-#EXTINF:-1 tvg-chno="031" tvg-id="Turner Classic Movies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movie",Turner Classic Movies
+#EXTINF:-1 tvg-chno="031" tvg-id="Turner Classic Movies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movies",Turner Classic Movies
 http://192.168.1.16:8097/TCM
 #EXTINF:-1 tvg-chno="032" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Live",TNT
 http://192.168.1.16:8097/TNT
@@ -77,14 +77,14 @@ http://192.168.1.16:8097/TNT
 http://192.168.1.16:8097/TBS
 #EXTINF:-1 tvg-chno="034" tvg-id="USA Network (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Live",USA Network
 http://192.168.1.16:8097/USANetwork
-#EXTINF:-1 tvg-chno="035" tvg-id="Syfy (East).us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movie",Syfy
+#EXTINF:-1 tvg-chno="035" tvg-id="Syfy (East).us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies",Syfy
 http://192.168.1.16:8097/SyFy
 
-#EXTINF:-1 tvg-chno="036" tvg-id="Crave1.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/512px-Crave_2018_logo.svg.png" group-title="Movie",Crave 1
+#EXTINF:-1 tvg-chno="036" tvg-id="Crave1.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/512px-Crave_2018_logo.svg.png" group-title="Movies",Crave 1
 http://192.168.1.16:8097/Crave1
-#EXTINF:-1 tvg-chno="037" tvg-id="Crave2.-.East.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movie",Crave 2
+#EXTINF:-1 tvg-chno="037" tvg-id="Crave2.-.East.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2
 http://192.168.1.16:8097/Crave2
-#EXTINF:-1 tvg-chno="038" tvg-id="Crave3.-.East.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movie",Crave 3
+#EXTINF:-1 tvg-chno="038" tvg-id="Crave3.-.East.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",Crave 3
 http://192.168.1.16:8097/Crave3
 
 #EXTINF:-1 tvg-chno="039" tvg-id="xumo-99951158" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/512x512.png?type=color_onBlack" group-title="Action & Drama",ION
@@ -93,7 +93,7 @@ http://192.168.1.16:8098/xumo/watch/99951158xyz
 #EXTINF:-1 tvg-chno="040" tvg-id="xumo-9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/512x512.png?type=color_onBlack" group-title="Action & Drama",ION Plus
 http://192.168.1.16:8098/xumo/watch/9999614xyz
 
-#EXTINF:-1 tvg-chno="041" tvg-id="xumo-99951157" tvg-logo="https://image.xumo.com/v1/channels/channel/99951157/512x512.png?type=color_onBlack" group-title="Crime Tv",ION Mystery
+#EXTINF:-1 tvg-chno="041" tvg-id="xumo-99951157" tvg-logo="https://image.xumo.com/v1/channels/channel/99951157/512x512.png?type=color_onBlack" group-title="Crime TV",ION Mystery
 http://192.168.1.16:8098/xumo/watch/99951157xyz
 
 #EXTINF:-1 tvg-chno="042" tvg-id="xumo-99951251" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/512x512.png?type=color_onBlack" group-title="Movies",MovieSphere by Lionsgate
@@ -102,7 +102,7 @@ http://192.168.1.16:8098/xumo/watch/99951251xyz
 #EXTINF:-1 tvg-chno="043" tvg-id="xumo-99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/512x512.png?type=color_onBlack" group-title="Movies",Universal Movies
 http://192.168.1.16:8098/xumo/watch/99991621xyz
 
-#EXTINF:-1 tvg-chno="044" tvg-id="xumo-99991386" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/512x512.png?type=color_onBlack" group-title="International",NEW Korean MOVIES & SERIES
+#EXTINF:-1 tvg-chno="044" tvg-id="xumo-99991386" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/512x512.png?type=color_onBlack" group-title="Movies",NEW Korean MOVIES & SERIES
 http://192.168.1.16:8098/xumo/watch/99991386xyz
 
 #EXTINF:-1 tvg-chno="045" tvg-id="Comedy Central (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central
@@ -111,24 +111,24 @@ http://192.168.1.16:8097/ComedyCentral
 #EXTINF:-1 tvg-chno="046" tvg-id="Cartoon Network HDTV (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" tvg group-title="Kids",Cartoon Network
 http://192.168.1.16:8097/CartoonNetwork
 
-#EXTINF:-1 tvg-chno="047" tvg-id="xumo-99991650" tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/512x512.png?type=color_onBlack" group-title="History & Learning",True History Channel
+#EXTINF:-1 tvg-chno="047" tvg-id="xumo-99991650" tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/512x512.png?type=color_onBlack" group-title="History",True History Channel
 http://192.168.1.16:8098/xumo/watch/99991650xyz
 
-#EXTINF:-1 tvg-chno="048" tvg-id="xumo-99951231" tvg-logo="https://image.xumo.com/v1/channels/channel/99951231/512x512.png?type=color_onBlack" group-title="Animals & Nature",BBC Earth
+#EXTINF:-1 tvg-chno="048" tvg-id="xumo-99951231" tvg-logo="https://image.xumo.com/v1/channels/channel/99951231/512x512.png?type=color_onBlack" group-title="Nature",BBC Earth
 http://192.168.1.16:8098/xumo/watch/99951231xyz
 
-#EXTINF:-1 tvg-chno="049" tvg-id="xumo-99991628" tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/512x512.png?type=color_onBlack" group-title="Animals & Nature",WildEarth
+#EXTINF:-1 tvg-chno="049" tvg-id="xumo-99991628" tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/512x512.png?type=color_onBlack" group-title="Nature",WildEarth
 http://192.168.1.16:8098/xumo/watch/99991628xyz
 
-#EXTINF:-1 tvg-chno="050" channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340000677_20241022T004353SQUARE.png" group-title="Animals, Nature & History",Magellan TV Now
+#EXTINF:-1 tvg-chno="050" channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340000677_20241022T004353SQUARE.png" group-title="Nature",Magellan TV Now
 http://192.168.1.16:8097/Magellan
-#EXTINF:-1 tvg-chno="051" channel-id="samsung-US900001CX" tvg-id="US900001CX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20240730T012820SQUARE.png" group-title="Animals, Nature & History",Universe: Mysteries Solved
+#EXTINF:-1 tvg-chno="051" channel-id="samsung-US900001CX" tvg-id="US900001CX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20240730T012820SQUARE.png" group-title="History",Universe: Mysteries Solved
 http://192.168.1.16:8097/Universe
-#EXTINF:-1 tvg-chno="052" channel-id="samsung-USBD35000428O" tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240528T020941SQUARE.png" group-title="Animals, Nature & History",History 365
+#EXTINF:-1 tvg-chno="052" channel-id="samsung-USBD35000428O" tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240528T020941SQUARE.png" group-title="History",History 365
 http://192.168.1.16:8097/History365
-#EXTINF:-1 tvg-chno="053" channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240709T002118SQUARE.png" group-title="Animals, Nature & History",TED
+#EXTINF:-1 tvg-chno="053" channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240709T002118SQUARE.png" group-title="History",TED
 http://192.168.1.16:8097/TED
-#EXTINF:-1 tvg-chno="054" channel-id="samsung-USBB800001O7" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="Animals, Nature & History",PBS Digital Studios
+#EXTINF:-1 tvg-chno="054" channel-id="samsung-USBB800001O7" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="History",PBS Digital Studios
 http://192.168.1.16:8097/PBS
 
 #EXTINF:-1 tvg-chno="055" tvg-id="NatGeo WILD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"  group-title="Nature",NatGeo WILD
@@ -140,10 +140,10 @@ http://192.168.1.16:8097/Science
 #EXTINF:-1 tvg-chno="058" tvg-id="Smithsonian Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel East
 http://192.168.1.16:8097/SmithsonianChannel
 
-#EXTINF:-1 tvg-chno="059" tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Live",Univision
+#EXTINF:-1 tvg-chno="059" tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Latino",Univision
 http://192.168.1.16:8097/Univision
 
-#EXTINF:-1 tvg-chno="060" tvg-id="xumo-99951227" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/512x512.png?type=color_onBlack" group-title="Local News",Telemundo Noticias Florida
+#EXTINF:-1 tvg-chno="060" tvg-id="xumo-99951227" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/512x512.png?type=color_onBlack" group-title="Latino",Telemundo Noticias Florida
 http://192.168.1.16:8098/xumo/watch/99951227xyz
 
 #EXTINF:-1 tvg-chno="061" tvg-id="xumo-99991748" tvg-logo="https://image.xumo.com/v1/channels/channel/99991748/512x512.png?type=color_onBlack" group-title="Latino",Telemundo Acción
@@ -155,33 +155,33 @@ http://192.168.1.16:8098/xumo/watch/99991749xyz
 #EXTINF:-1 tvg-chno="063" tvg-id="xumo-99991746" tvg-logo="https://image.xumo.com/v1/channels/channel/99991746/512x512.png?type=color_onBlack" group-title="Latino",EstrellaTV
 http://192.168.1.16:8098/xumo/watch/99991746xyz
 
-#EXTINF:-1 tvg-chno="064" channel-id="samsung-US27000033D" tvg-id="US27000033D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20241119T020400SQUARE.png" group-title="Entertainment",Novelas Turcas
+#EXTINF:-1 tvg-chno="064" channel-id="samsung-US27000033D" tvg-id="US27000033D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20241119T020400SQUARE.png" group-title="Latino",Novelas Turcas
 http://192.168.1.16:8097/NovelasTurcas
 
 #EXTINF:-1 tvg-chno="065" channel-id="samsung-US2600019IC" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Latino",Historia
 http://192.168.1.16:8097/Historia
 
-#EXTINF:-1 tvg-chno="066" tvg-id="ESBC4100001NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/512px-Logo_TVE-1.svg.png" group-title="General",La 1
+#EXTINF:-1 tvg-chno="066" tvg-id="ESBC4100001NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/512px-Logo_TVE-1.svg.png" group-title="Entertainment",La 1
 http://192.168.1.16:8097/La1
-#EXTINF:-1 tvg-chno="067" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/512px-Logo_TVE-2.svg.png" group-title="Documentary",La 2
+#EXTINF:-1 tvg-chno="067" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/512px-Logo_TVE-2.svg.png" group-title="Entertainment",La 2
 http://192.168.1.16:8097/La2
 
-#EXTINF:-1 tvg-chno="068" tvg-id="Antena.3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="General",Antena 3
+#EXTINF:-1 tvg-chno="068" tvg-id="Antena.3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="Entertainment",Antena 3
 http://192.168.1.16:8097/Antena3
 #EXTINF:-1 tvg-chno="069" tvg-id="laSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/512px-La_Sexta_%28A3M%29.svg.png" group-title="Entertainment",La Sexta
 http://192.168.1.16:8097/LaSexta
 
-#EXTINF:-1 tvg-chno="070" channel-id="samsung-ES2600004BD" tvg-id="ES2600004BD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" group-title="Movie",Acción - Rakuten TV
+#EXTINF:-1 tvg-chno="070" channel-id="samsung-ES2600004BD" tvg-id="ES2600004BD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" group-title="Movies",Acción - Rakuten TV
 http://192.168.1.16:8097/RakutenAction
-#EXTINF:-1 tvg-chno="071" channel-id="samsung-ES2600013H4" tvg-id="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" group-title="Movie",Pelí­culas Top - Rakuten TV
+#EXTINF:-1 tvg-chno="071" channel-id="samsung-ES2600013H4" tvg-id="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" group-title="Movies",Pelí­culas Top - Rakuten TV
 http://192.168.1.16:8097/RakutenTop
-#EXTINF:-1 tvg-chno="072" channel-id="samsung-ES2600012C9" tvg-id="ES2600012C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" group-title="Movie",Pelí­culas Románticas - Rakuten TV
+#EXTINF:-1 tvg-chno="072" channel-id="samsung-ES2600012C9" tvg-id="ES2600012C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" group-title="Movies",Pelí­culas Románticas - Rakuten TV
 http://192.168.1.16:8097/RakutenRomance
-#EXTINF:-1 tvg-chno="073" channel-id="samsung-ES260000700" tvg-id="ES260000700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png" group-title="Movie",Comedia - Rakuten TV
+#EXTINF:-1 tvg-chno="073" channel-id="samsung-ES260000700" tvg-id="ES260000700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png" group-title="Movies",Comedia - Rakuten TV
 http://192.168.1.16:8097/RakutenComedy
-#EXTINF:-1 tvg-chno="074" channel-id="samsung-ES3000008O8" tvg-id="ES3000008O8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png" group-title="Movie",Cine Español - Rakuten TV
+#EXTINF:-1 tvg-chno="074" channel-id="samsung-ES3000008O8" tvg-id="ES3000008O8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png" group-title="Movies",Cine Español - Rakuten TV
 http://192.168.1.16:8097/RakutenCineSpain
-#EXTINF:-1 tvg-chno="075" channel-id="samsung-ES2600003UM" tvg-id="ES2600003UM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Movie",Pelí­culas de Drama - Rakuten TV
+#EXTINF:-1 tvg-chno="075" channel-id="samsung-ES2600003UM" tvg-id="ES2600003UM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Movies",Pelí­culas de Drama - Rakuten TV
 http://192.168.1.16:8097/RakutenDrama
 
 #EXTINF:-1 tvg-chno="076" tvg-id="MTV Live.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live
@@ -239,5 +239,5 @@ http://192.168.1.16:8097/MaxSport1HD
 #EXTINF:-1 tvg-chno="099" tvg-id="Max.Sport.2.bg" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1024x182.png" group-title="Sport", MAXSport 2 HD
 http://192.168.1.16:8097/MaxSport2HD
 
-#EXTINF:-1 tvg-chno="100" tvg-id="Nova.TV.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/512px-NOVA_logo.svg.png" group-title="Entertainment", Nova TV
+#EXTINF:-1 tvg-chno="100" tvg-id="Nova.TV.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/512px-NOVA_logo.svg.png" group-title="Live", Nova TV
 http://192.168.1.16:8097/NovaTV
