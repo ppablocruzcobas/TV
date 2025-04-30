@@ -24,26 +24,9 @@ http://192.168.1.16:8097/HBOZone
 http://192.168.1.16:8097/Showtime
 #EXTINF:-1 tvg-chno="011" tvg-id="Showtime 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Movies",Showtime 2
 http://192.168.1.16:8097/Showtime2
-#EXTINF:-1 tvg-chno="012" tvg-id="Showtime Extreme (West).us" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme
-http://192.168.1.16:8097/ShowtimeExtreme
-#EXTINF:-1 tvg-chno="013" tvg-id="Showtime Next (East).us" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Movies",Showtime Next
-http://192.168.1.16:8097/ShowtimeNext
-#EXTINF:-1 tvg-chno="014" tvg-id="Showtime Women (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/512px-Showtime_Women.svg.png" group-title="Movies",Showtime Women
-http://192.168.1.16:8097/ShowtimeWomen
-
-#EXTINF:-1 tvg-chno="015" tvg-id="MGM+ (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM+_logo.svg/512px-MGM+_logo.svg.png" group-title="Movies",MGM+
-http://192.168.1.16:8097/MGMPlus
-#EXTINF:-1 tvg-chno="016" tvg-id="MGM+ Drive-In.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" group-title="Movies",MGM+ Drive-In
-http://192.168.1.16:8097/MGMPlusDriveIn
-#EXTINF:-1 tvg-chno="017" tvg-id="MGM+ Hits.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png" group-title="Movies",MGM+ Hits
-http://192.168.1.16:8097/MGMPlusHits
-#EXTINF:-1 tvg-chno="018" tvg-id="MGM+ Marquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="Movies",MGM+ Marquee
-http://192.168.1.16:8097/MGMPlusMarquee
 
 #EXTINF:-1 tvg-chno="019" tvg-id="Starz (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/512px-Starz_2008.png" group-title="Movies",Starz
 http://192.168.1.16:8097/StarzEast
-#EXTINF:-1 tvg-chno="020" tvg-id="STARZ ENCORE Classic (East).us" tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="Movies",Starz Encore Classic
-http://192.168.1.16:8097/StarzEncoreClassic
 
 #EXTINF:-1 tvg-chno="021" tvg-id="AMC (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC
 http://192.168.1.16:8097/AMC
@@ -67,8 +50,6 @@ http://192.168.1.16:8097/Cinemax
 #EXTINF:-1 tvg-chno="029" tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
 http://192.168.1.16:8097/CineLife
 
-#EXTINF:-1 tvg-chno="030" tvg-id="Paramount Network (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies",Paramount Network East
-http://192.168.1.16:8097/ParamountNetwork
 #EXTINF:-1 tvg-chno="031" tvg-id="Turner Classic Movies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movies",Turner Classic Movies
 http://192.168.1.16:8097/TCM
 #EXTINF:-1 tvg-chno="032" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Live",TNT
@@ -79,13 +60,6 @@ http://192.168.1.16:8097/TBS
 http://192.168.1.16:8097/USANetwork
 #EXTINF:-1 tvg-chno="035" tvg-id="Syfy (East).us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies",Syfy
 http://192.168.1.16:8097/SyFy
-
-#EXTINF:-1 tvg-chno="036" tvg-id="Crave1.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/512px-Crave_2018_logo.svg.png" group-title="Movies",Crave 1
-http://192.168.1.16:8097/Crave1
-#EXTINF:-1 tvg-chno="037" tvg-id="Crave2.-.East.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2
-http://192.168.1.16:8097/Crave2
-#EXTINF:-1 tvg-chno="038" tvg-id="Crave3.-.East.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",Crave 3
-http://192.168.1.16:8097/Crave3
 
 #EXTINF:-1 tvg-chno="039" tvg-id="xumo-99951158" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/512x512.png?type=color_onBlack" group-title="Action & Drama",ION
 http://192.168.1.16:8098/xumo/watch/99951158xyz
