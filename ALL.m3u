@@ -196,16 +196,3 @@ https://jmp2.uk/sam-USBC3600001RQ.m3u8
 http://192.168.1.16:8097/ESPN
 #EXTINF:-1 tvg-chno="080" tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sport",ESPN 2
 http://192.168.1.16:8097/ESPN2
-
-#EXTINF:-1 tvg-chno="081" tvg-id="Eurosport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="Sport",Eurosport 1 HD
-http://192.168.1.16:8097/Eurosport1HD
-#EXTINF:-1 tvg-chno="082" tvg-id="Eurosport.2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eurosport_2_HD_Logo_2015.png" group-title="Sport",Eurosport 2 HD
-http://192.168.1.16:8097/Eurosport2HD
-
-#EXTINF:-1 tvg-chno="083" tvg-id="Max.Sport.1.bg" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1024x182.png" group-title="Sport", MAXSport 1 HD
-http://192.168.1.16:8097/MaxSport1HD
-#EXTINF:-1 tvg-chno="084" tvg-id="Max.Sport.2.bg" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1024x182.png" group-title="Sport", MAXSport 2 HD
-http://192.168.1.16:8097/MaxSport2HD
-
-#EXTINF:-1 tvg-chno="085" tvg-id="Nova.TV.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/512px-NOVA_logo.svg.png" group-title="Live", Nova TV
-http://192.168.1.16:8097/NovaTV
