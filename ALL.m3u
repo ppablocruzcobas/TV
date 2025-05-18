@@ -28,18 +28,6 @@ http://192.168.1.16:8097/Showtime2
 #EXTINF:-1 tvg-chno="012" tvg-id="Starz (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/512px-Starz_2008.png" group-title="Movies",Starz
 http://192.168.1.16:8097/StarzEast
 
-#EXTINF:-1 tvg-chno="013" tvg-id="AMC (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC
-http://192.168.1.16:8097/AMC
-
-#EXTINF:-1 tvg-chno="014" tvg-id="xumo-99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/512x512.png?type=color_onBlack" group-title="Movies",AMC Thrillers
-http://192.168.1.16:8098/xumo/watch/99951377xyz
-
-#EXTINF:-1 tvg-chno="015" tvg-id="FX (East).us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Movies",FX
-http://192.168.1.16:8097/FX
-#EXTINF:-1 tvg-chno="016" tvg-id="FXX (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Movies",FXX
-http://192.168.1.16:8097/FXX
-#EXTINF:-1 tvg-chno="017" tvg-id="FX Movie Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel
-http://192.168.1.16:8097/FXMovie
 #EXTINF:-1 tvg-chno="018" tvg-id="More Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movies",More Max
 http://192.168.1.16:8097/MoreMax
 #EXTINF:-1 tvg-chno="019" tvg-id="Movie Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movies",Movie Max
@@ -50,40 +38,14 @@ http://192.168.1.16:8097/Cinemax
 #EXTINF:-1 tvg-chno="021" tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
 http://192.168.1.16:8097/CineLife
 
-#EXTINF:-1 tvg-chno="022" tvg-id="Turner Classic Movies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Movies",Turner Classic Movies
-http://192.168.1.16:8097/TCM
-#EXTINF:-1 tvg-chno="023" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Live",TNT
-http://192.168.1.16:8097/TNT
-#EXTINF:-1 tvg-chno="024" tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png" group-title="Live",TBS
-http://192.168.1.16:8097/TBS
-#EXTINF:-1 tvg-chno="025" tvg-id="USA Network (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Live",USA Network
-http://192.168.1.16:8097/USANetwork
 #EXTINF:-1 tvg-chno="026" tvg-id="Syfy (East).us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies",Syfy
 http://192.168.1.16:8097/SyFy
-
-#EXTINF:-1 tvg-chno="027" tvg-id="xumo-99951158" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/512x512.png?type=color_onBlack" group-title="Action & Drama",ION
-http://192.168.1.16:8098/xumo/watch/99951158xyz
-
-#EXTINF:-1 tvg-chno="028" tvg-id="xumo-9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/512x512.png?type=color_onBlack" group-title="Action & Drama",ION Plus
-http://192.168.1.16:8098/xumo/watch/9999614xyz
-
-#EXTINF:-1 tvg-chno="029" tvg-id="xumo-99951157" tvg-logo="https://image.xumo.com/v1/channels/channel/99951157/512x512.png?type=color_onBlack" group-title="Crime TV",ION Mystery
-http://192.168.1.16:8098/xumo/watch/99951157xyz
 
 #EXTINF:-1 tvg-chno="030" tvg-id="xumo-99951251" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/512x512.png?type=color_onBlack" group-title="Movies",MovieSphere by Lionsgate
 http://192.168.1.16:8098/xumo/watch/99951251xyz
 
 #EXTINF:-1 tvg-chno="031" tvg-id="xumo-99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/512x512.png?type=color_onBlack" group-title="Movies",Universal Movies
 http://192.168.1.16:8098/xumo/watch/99991621xyz
-
-#EXTINF:-1 tvg-chno="032" tvg-id="xumo-99991386" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/512x512.png?type=color_onBlack" group-title="Movies",NEW Korean MOVIES & SERIES
-http://192.168.1.16:8098/xumo/watch/99991386xyz
-
-#EXTINF:-1 tvg-chno="033" tvg-id="Comedy Central (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central
-http://192.168.1.16:8097/ComedyCentral
-
-#EXTINF:-1 tvg-chno="034" tvg-id="Cartoon Network HDTV (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" tvg group-title="Kids",Cartoon Network
-http://192.168.1.16:8097/CartoonNetwork
 
 #EXTINF:-1 tvg-chno="035" tvg-id="xumo-99991650" tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/512x512.png?type=color_onBlack" group-title="History",True History Channel
 http://192.168.1.16:8098/xumo/watch/99991650xyz
@@ -112,23 +74,8 @@ http://192.168.1.16:8097/NatGeo
 #EXTINF:-1 tvg-chno="045" tvg-id="Science.us" tvg-logo="https://i.imgur.com/jVwWHP1.png" group-title="Science",Science
 http://192.168.1.16:8097/Science
 
-#EXTINF:-1 tvg-chno="046" tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Latino",Univision
-http://192.168.1.16:8097/Univision
-
-#EXTINF:-1 tvg-chno="047" tvg-id="xumo-99951227" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/512x512.png?type=color_onBlack" group-title="Latino",Telemundo Noticias Florida
-http://192.168.1.16:8098/xumo/watch/99951227xyz
-
-#EXTINF:-1 tvg-chno="048" tvg-id="xumo-99991748" tvg-logo="https://image.xumo.com/v1/channels/channel/99991748/512x512.png?type=color_onBlack" group-title="Latino",Telemundo Acción
-http://192.168.1.16:8098/xumo/watch/99991748xyz
-
-#EXTINF:-1 tvg-chno="049" tvg-id="xumo-99991749" tvg-logo="https://image.xumo.com/v1/channels/channel/99991749/512x512.png?type=color_onBlack" group-title="Latino",Telemundo Romance
-http://192.168.1.16:8098/xumo/watch/99991749xyz
-
 #EXTINF:-1 tvg-chno="050" tvg-id="xumo-99991746" tvg-logo="https://image.xumo.com/v1/channels/channel/99991746/512x512.png?type=color_onBlack" group-title="Latino",EstrellaTV
 http://192.168.1.16:8098/xumo/watch/99991746xyz
-
-#EXTINF:-1 tvg-chno="051" channel-id="samsung-US27000033D" tvg-id="US27000033D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20241119T020400SQUARE.png" group-title="Latino",Novelas Turcas
-http://192.168.1.16:8097/NovelasTurcas
 
 #EXTINF:-1 tvg-chno="052" channel-id="samsung-US2600019IC" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Latino",Historia
 http://192.168.1.16:8097/Historia
@@ -155,9 +102,6 @@ http://192.168.1.16:8097/RakutenComedy
 http://192.168.1.16:8097/RakutenCineSpain
 #EXTINF:-1 tvg-chno="062" channel-id="samsung-ES2600003UM" tvg-id="ES2600003UM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Movies",Pelí­culas de Drama - Rakuten TV
 http://192.168.1.16:8097/RakutenDrama
-
-#EXTINF:-1 tvg-chno="063" tvg-id="MTV Live.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live
-http://192.168.1.16:8097/MTVLive
 
 #EXTINF:-1 tvg-chno="064" tvg-id="CA400004SM" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray
 http://192.168.1.16:8097/QelloConcerts
