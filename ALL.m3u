@@ -25,77 +25,18 @@ http://192.168.1.16:8097/Showtime
 #EXTINF:-1 tvg-chno="011" tvg-id="Showtime 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Movies",Showtime 2
 http://192.168.1.16:8097/Showtime2
 
-#EXTINF:-1 tvg-chno="018" tvg-id="More Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movies",More Max
+#EXTINF:-1 tvg-chno="012" tvg-id="More Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movies",More Max
 http://192.168.1.16:8097/MoreMax
-#EXTINF:-1 tvg-chno="019" tvg-id="Movie Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movies",Movie Max
+#EXTINF:-1 tvg-chno="013" tvg-id="Movie Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movies",Movie Max
 http://192.168.1.16:8097/MovieMax
-#EXTINF:-1 tvg-chno="020" tvg-id="Cinemax (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-chno="014" tvg-id="Cinemax (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax
 http://192.168.1.16:8097/Cinemax
 
-#EXTINF:-1 tvg-chno="026" tvg-id="Syfy (East).us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies",Syfy
-http://192.168.1.16:8097/SyFy
-
-#EXTINF:-1 tvg-chno="038" channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340000677_20241022T004353SQUARE.png" group-title="Nature",Magellan TV Now
-http://192.168.1.16:8097/Magellan
-#EXTINF:-1 tvg-chno="039" channel-id="samsung-US900001CX" tvg-id="US900001CX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20240730T012820SQUARE.png" group-title="History",Universe: Mysteries Solved
-http://192.168.1.16:8097/Universe
-#EXTINF:-1 tvg-chno="040" channel-id="samsung-USBD35000428O" tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240528T020941SQUARE.png" group-title="History",History 365
-http://192.168.1.16:8097/History365
-#EXTINF:-1 tvg-chno="041" channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240709T002118SQUARE.png" group-title="History",TED
-http://192.168.1.16:8097/TED
-#EXTINF:-1 tvg-chno="042" channel-id="samsung-USBB800001O7" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="History",PBS Digital Studios
-http://192.168.1.16:8097/PBS
-
-#EXTINF:-1 tvg-chno="043" tvg-id="NatGeo WILD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"  group-title="Nature",NatGeo WILD
-http://192.168.1.16:8097/NatGeoWild
-#EXTINF:-1 tvg-chno="044" tvg-id="National Geographic Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Nature",National Geographic
-http://192.168.1.16:8097/NatGeo
-#EXTINF:-1 tvg-chno="045" tvg-id="Science.us" tvg-logo="https://i.imgur.com/jVwWHP1.png" group-title="Science",Science
-http://192.168.1.16:8097/Science
-
-#EXTINF:-1 tvg-chno="050" tvg-id="xumo-99991746" tvg-logo="https://image.xumo.com/v1/channels/channel/99991746/512x512.png?type=color_onBlack" group-title="Latino",EstrellaTV
-http://192.168.1.16:8098/xumo/watch/99991746xyz
-
-#EXTINF:-1 tvg-chno="052" channel-id="samsung-US2600019IC" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Latino",Historia
-http://192.168.1.16:8097/Historia
-
-#EXTINF:-1 tvg-chno="061" channel-id="samsung-ES3000008O8" tvg-id="ES3000008O8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png" group-title="Movies",Cine Español - Rakuten TV
-http://192.168.1.16:8097/RakutenCineSpain
-
-#EXTINF:-1 tvg-chno="064" tvg-id="CA400004SM" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray
-http://192.168.1.16:8097/QelloConcerts
-#EXTINF:-1 tvg-chno="065" tvg-id="CA400005W4" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica
-http://192.168.1.16:8097/StingrayClassica
-#EXTINF:-1 tvg-chno="066" tvg-id="CA4700002IH" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Music",Stingray CMusic
-http://192.168.1.16:8097/StingrayCMusic
-#EXTINF:-1 tvg-chno="067" tvg-id="CA400002ZK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ
-http://192.168.1.16:8097/StingrayDJazz
-
-#EXTINF:-1 tvg-chno="068" channel-id="samsung-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png" group-title="Music",XITE Siempre Latino
-http://192.168.1.16:8097/XITESiempreLatino
-#EXTINF:-1 tvg-chno="069" channel-id="samsung-USBD330000948" tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="Music",XITE R&B Classic Jams
-http://192.168.1.16:8097/XITERBClassicJams
-#EXTINF:-1 tvg-chno="070" channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="Music",XITE Hits (US)
-http://192.168.1.16:8097/XITEHitsUS
-
-#EXTINF:-1 tvg-chno="071" channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png" group-title="Music",Vevo '90s
-https://jmp2.uk/sam-USBD3000133M.m3u8
-#EXTINF:-1 tvg-chno="072" channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="Music",Vevo 2K
-https://jmp2.uk/sam-USBB4400015F5.m3u8
-#EXTINF:-1 tvg-chno="073" channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" group-title="Music",Vevo 2010s
-https://jmp2.uk/sam-USBD120002431.m3u8
-#EXTINF:-1 tvg-chno="074" channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20241112T001904SQUARE.png" group-title="Music",Vevo Retro Rock
-https://jmp2.uk/sam-USBD3000145P.m3u8
-#EXTINF:-1 tvg-chno="075" channel-id="samsung-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20241112T001856SQUARE.png" group-title="Music",Vevo Latino
-https://jmp2.uk/sam-USBC3600015GF.m3u8
-#EXTINF:-1 tvg-chno="076" channel-id="samsung-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20241112T001853SQUARE.png" group-title="Music",Vevo Hip-Hop
-https://jmp2.uk/sam-USBC3600002EK.m3u8
-#EXTINF:-1 tvg-chno="077" channel-id="samsung-USBC3900009K5" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20241112T001901SQUARE.png" group-title="Music",Vevo R&B
-https://jmp2.uk/sam-USBC3900009K5.m3u8
-#EXTINF:-1 tvg-chno="078" channel-id="samsung-USBC3600001RQ" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20241112T001851SQUARE.png" group-title="Music",Vevo Country
-https://jmp2.uk/sam-USBC3600001RQ.m3u8
+#EXTINF:-1 tvg-chno="015" channel-id="samsung-GB2600020OP" tvg-id="GB2600020OP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png" group-title="Movies",Comedy Movies - Rakuten TV
+https://jmp2.uk/sam-GB2600020OP.m3u8
 
 #EXTINF:-1 tvg-chno="079" tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sport",ESPN
 http://192.168.1.16:8097/ESPN
 #EXTINF:-1 tvg-chno="080" tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sport",ESPN 2
 http://192.168.1.16:8097/ESPN2
+
