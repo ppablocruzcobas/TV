@@ -25,9 +25,6 @@ http://192.168.1.16:8097/Showtime
 #EXTINF:-1 tvg-chno="011" tvg-id="Showtime 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Movies",Showtime 2
 http://192.168.1.16:8097/Showtime2
 
-#EXTINF:-1 tvg-chno="012" tvg-id="Starz (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/512px-Starz_2008.png" group-title="Movies",Starz
-http://192.168.1.16:8097/StarzEast
-
 #EXTINF:-1 tvg-chno="018" tvg-id="More Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movies",More Max
 http://192.168.1.16:8097/MoreMax
 #EXTINF:-1 tvg-chno="019" tvg-id="Movie Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movies",Movie Max
@@ -35,26 +32,8 @@ http://192.168.1.16:8097/MovieMax
 #EXTINF:-1 tvg-chno="020" tvg-id="Cinemax (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax
 http://192.168.1.16:8097/Cinemax
 
-#EXTINF:-1 tvg-chno="021" tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
-http://192.168.1.16:8097/CineLife
-
 #EXTINF:-1 tvg-chno="026" tvg-id="Syfy (East).us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies",Syfy
 http://192.168.1.16:8097/SyFy
-
-#EXTINF:-1 tvg-chno="030" tvg-id="xumo-99951251" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/512x512.png?type=color_onBlack" group-title="Movies",MovieSphere by Lionsgate
-http://192.168.1.16:8098/xumo/watch/99951251xyz
-
-#EXTINF:-1 tvg-chno="031" tvg-id="xumo-99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/512x512.png?type=color_onBlack" group-title="Movies",Universal Movies
-http://192.168.1.16:8098/xumo/watch/99991621xyz
-
-#EXTINF:-1 tvg-chno="035" tvg-id="xumo-99991650" tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/512x512.png?type=color_onBlack" group-title="History",True History Channel
-http://192.168.1.16:8098/xumo/watch/99991650xyz
-
-#EXTINF:-1 tvg-chno="036" tvg-id="xumo-99951231" tvg-logo="https://image.xumo.com/v1/channels/channel/99951231/512x512.png?type=color_onBlack" group-title="Nature",BBC Earth
-http://192.168.1.16:8098/xumo/watch/99951231xyz
-
-#EXTINF:-1 tvg-chno="037" tvg-id="xumo-99991628" tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/512x512.png?type=color_onBlack" group-title="Nature",WildEarth
-http://192.168.1.16:8098/xumo/watch/99991628xyz
 
 #EXTINF:-1 tvg-chno="038" channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340000677_20241022T004353SQUARE.png" group-title="Nature",Magellan TV Now
 http://192.168.1.16:8097/Magellan
@@ -79,16 +58,6 @@ http://192.168.1.16:8098/xumo/watch/99991746xyz
 
 #EXTINF:-1 tvg-chno="052" channel-id="samsung-US2600019IC" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Latino",Historia
 http://192.168.1.16:8097/Historia
-
-#EXTINF:-1 tvg-chno="053" tvg-id="ESBC4100001NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/512px-Logo_TVE-1.svg.png" group-title="Entertainment",La 1
-http://192.168.1.16:8097/La1
-#EXTINF:-1 tvg-chno="054" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/512px-Logo_TVE-2.svg.png" group-title="Entertainment",La 2
-http://192.168.1.16:8097/La2
-
-#EXTINF:-1 tvg-chno="055" tvg-id="Antena.3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="Entertainment",Antena 3
-http://192.168.1.16:8097/Antena3
-#EXTINF:-1 tvg-chno="056" tvg-id="laSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/512px-La_Sexta_%28A3M%29.svg.png" group-title="Entertainment",La Sexta
-http://192.168.1.16:8097/LaSexta
 
 #EXTINF:-1 tvg-chno="061" channel-id="samsung-ES3000008O8" tvg-id="ES3000008O8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png" group-title="Movies",Cine Español - Rakuten TV
 http://192.168.1.16:8097/RakutenCineSpain
