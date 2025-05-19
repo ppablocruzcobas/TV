@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="001" tvg-id="WABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Live",ABC
+#EXTINF:-1 tvg-chno="001" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Live",ABC
 http://192.168.1.16:8097/WABC
-#EXTINF:-1 tvg-chno="002" tvg-id="WCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Live",CBS
+#EXTINF:-1 tvg-chno="002" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Live",CBS
 http://192.168.1.16:8097/WCBS
-#EXTINF:-1 tvg-chno="003" tvg-id="WNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Live",NBC
+#EXTINF:-1 tvg-chno="003" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Live",NBC
 http://192.168.1.16:8097/WNBC
 
 #EXTINF:-1 tvg-chno="004" channel-id="samsung-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="Entretenimiento",La 1
@@ -12,29 +12,29 @@ https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-chno="005" channel-id="samsung-ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png" group-title="Entretenimiento",La 2
 https://jmp2.uk/sam-ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-chno="006" tvg-id="HBO (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-chno="006" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://192.168.1.16:8097/HBO
-#EXTINF:-1 tvg-chno="007" tvg-id="HBO 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies",HBO 2
+#EXTINF:-1 tvg-chno="007" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies",HBO 2
 http://192.168.1.16:8097/HBO2
-#EXTINF:-1 tvg-chno="008" tvg-id="HBO Comedy (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="Movies",HBO Comedy
+#EXTINF:-1 tvg-chno="008" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="Movies",HBO Comedy
 http://192.168.1.16:8097/HBOComedy
-#EXTINF:-1 tvg-chno="009" tvg-id="HBO Family (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-chno="009" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Movies",HBO Family
 http://192.168.1.16:8097/HBOFamily
-#EXTINF:-1 tvg-chno="010" tvg-id="HBO Signature (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-chno="010" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="Movies",HBO Signature
 http://192.168.1.16:8097/HBOSignature
-#EXTINF:-1 tvg-chno="011" tvg-id="HBO Zone (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="Movies",HBO Zone
+#EXTINF:-1 tvg-chno="011" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="Movies",HBO Zone
 http://192.168.1.16:8097/HBOZone
 
-#EXTINF:-1 tvg-chno="012" tvg-id="Showtime (East).us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime
+#EXTINF:-1 tvg-chno="012" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime
 http://192.168.1.16:8097/Showtime
-#EXTINF:-1 tvg-chno="013" tvg-id="Showtime 2 (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Movies",Showtime 2
+#EXTINF:-1 tvg-chno="013" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Movies",Showtime 2
 http://192.168.1.16:8097/Showtime2
 
-#EXTINF:-1 tvg-chno="014" tvg-id="More Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movies",More Max
+#EXTINF:-1 tvg-chno="014" tvg-id="MoreMax..Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="Movies",MoreMax
 http://192.168.1.16:8097/MoreMax
-#EXTINF:-1 tvg-chno="015" tvg-id="Movie Max (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movies",Movie Max
+#EXTINF:-1 tvg-chno="015" tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/512px-MovieMax_Logo.svg.png" group-title="Movies",MovieMax
 http://192.168.1.16:8097/MovieMax
-#EXTINF:-1 tvg-chno="016" tvg-id="Cinemax (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-chno="016" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax
 http://192.168.1.16:8097/Cinemax
 
 #EXTINF:-1 tvg-chno="017" channel-id="samsung-GB2600018PD" tvg-id="GB2600018PD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="Movies",Top Movies - Rakuten TV
