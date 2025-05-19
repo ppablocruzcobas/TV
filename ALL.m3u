@@ -90,18 +90,8 @@ http://192.168.1.16:8097/Antena3
 #EXTINF:-1 tvg-chno="056" tvg-id="laSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/512px-La_Sexta_%28A3M%29.svg.png" group-title="Entertainment",La Sexta
 http://192.168.1.16:8097/LaSexta
 
-#EXTINF:-1 tvg-chno="057" channel-id="samsung-ES2600004BD" tvg-id="ES2600004BD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" group-title="Movies",Acción - Rakuten TV
-http://192.168.1.16:8097/RakutenAction
-#EXTINF:-1 tvg-chno="058" channel-id="samsung-ES2600013H4" tvg-id="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" group-title="Movies",Pelí­culas Top - Rakuten TV
-http://192.168.1.16:8097/RakutenTop
-#EXTINF:-1 tvg-chno="059" channel-id="samsung-ES2600012C9" tvg-id="ES2600012C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" group-title="Movies",Pelí­culas Románticas - Rakuten TV
-http://192.168.1.16:8097/RakutenRomance
-#EXTINF:-1 tvg-chno="060" channel-id="samsung-ES260000700" tvg-id="ES260000700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png" group-title="Movies",Comedia - Rakuten TV
-http://192.168.1.16:8097/RakutenComedy
 #EXTINF:-1 tvg-chno="061" channel-id="samsung-ES3000008O8" tvg-id="ES3000008O8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png" group-title="Movies",Cine Español - Rakuten TV
 http://192.168.1.16:8097/RakutenCineSpain
-#EXTINF:-1 tvg-chno="062" channel-id="samsung-ES2600003UM" tvg-id="ES2600003UM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Movies",Pelí­culas de Drama - Rakuten TV
-http://192.168.1.16:8097/RakutenDrama
 
 #EXTINF:-1 tvg-chno="064" tvg-id="CA400004SM" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray
 http://192.168.1.16:8097/QelloConcerts
